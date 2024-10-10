@@ -1,0 +1,55 @@
+{"Order":
+ {
+     "1" : {
+         "Landsdel" : "Götaland" ,
+         "Landskap" : {
+            "Östergötland" : {
+                "Stad" : {
+                    "Stad1" : "Linköping",
+                    "Stad2" : "Motala"
+                }
+            },
+            "Västergötland" : {
+                "Stad" : {
+                    "Stad1" : "Mjölby"
+                }
+            }
+         }
+     },
+
+     "2" : {
+         "Landsdel" : "Svealand" ,
+         "Landskap" : {
+            "Södermanland" : {
+                "Stad" : {
+                    "Stad1" : "Mariefred",
+                    "Stad2" : "Nyköping"
+                }
+            }
+         }
+     },
+
+     "3" : {
+         "Landsdel" : "Norrland" ,
+         "Landskap" : {
+            "Norrbotten" : {
+                "Stad" : {
+                    "Stad1" : "Piteå"
+                }
+            },
+            "Gästrikland" : {
+                "Stad" : {
+                    "Stad1" : "Sandviken"
+                }
+            },
+            "Ångermanland" : {
+                "Stad" : {
+                    "Stad1" : "Sollefteå",
+                    "Stad2" : "Kramfors",
+                    "Stad3" : "Örnsköldsvik"
+                }
+            }
+         }
+     }
+ }
+ }

@@ -9,5 +9,5 @@ def flask_test():
 def main():
     flask_test()
 
-if __name__ == "main":
+if __name__ == "__main__":
     app.run(debug=True)
